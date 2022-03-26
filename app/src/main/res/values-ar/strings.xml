@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التطبيق</string>
+
+    <string name="add_task_title">إضافة مهمة</string>
+    <string name="hint_title">عنوان</string>
+    <string name="priority">أولوية</string>
+    <string name="add_button">إضافة</string>
+    <string name="cancel_button">إلغاء</string>
+    <string name="edit_button">تعديل</string>
+    <string name="edit_task_title">تعديل مهمة</string>
+</resources>
